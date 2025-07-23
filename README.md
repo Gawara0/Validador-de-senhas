@@ -50,7 +50,7 @@ Senha fornecida: Senha123 Nota da senha: 65/100 Força da senha: Boa🟩
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Gawara0/Validador-de-senhas.git
+git clone https://github.com/Gawara0/Validador-de-senhas.git
 
 2. Acesse a pasta:
 
