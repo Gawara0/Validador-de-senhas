@@ -72,5 +72,5 @@ python senha_checker.py
 
 ⚠️ Aviso
 
-Este projeto é educacional e não armazena nenhuma senha.
+> Este projeto é educacional e não armazena nenhuma senha.
 Use apenas para fins de aprendizado e boas práticas de segurança.
